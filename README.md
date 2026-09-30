@@ -4,6 +4,7 @@ INSIDE mod patcher
 Installs INSIDE mods (.insidepatch files) into your own copy of the game. Works on the Steam version of INSIDE.
 Each mod only contains the few game objects it changes, so you can install several at once and switch each one
 on or off by itself.
+No current guide on how to make a patch yourself ,the source is provided as is just for reference.
 
 HOW TO USE
 1. Close INSIDE.
